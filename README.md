@@ -2,7 +2,7 @@
 **Issued by:** Fleet Coffee
 
 ### Description
-Here is my attempt at the FirstNonRepeated function problem issued by Fleet Coffee. The goal of the problem is to write a function called `firstNonRepeated` that takes a single string `s` as input and returns the first non-repeated character in the string. If there is no non-repeated character, the function should return an empty string.
+Here is my attempt at the [intern coding challenge](https://gist.github.com/gdogaru/f8c6bc7b203b3bc63693fa92f6cd3d4e) issued by [Fleet Coffee](https://fleetscoffee.com/). The goal of the problem is to write a function called `firstNonRepeated` that takes a single string `s` as input and returns the first non-repeated character in the string. If there is no non-repeated character, the function should return an empty string.
 
 ### Approach
 I have implemented three different versions of the function. Initially, I started with a brute force method, which involved iterating through the string and checking for repetitions. However, the time complexity of this approach was O(n^2), which is not ideal.
